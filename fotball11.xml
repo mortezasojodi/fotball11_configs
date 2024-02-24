@@ -3,8 +3,8 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.0.20</title>
-            <versionnumber>20</versionnumber>
+            <title>Version 1.0.22</title>
+            <versionnumber>22</versionnumber>
             <forced>true</forced>
             <description>Major updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
